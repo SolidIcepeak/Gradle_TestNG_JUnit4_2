@@ -31,7 +31,7 @@ public class CashbackHackServiceTest {
     }
 
     @Test
-    public void MaxTest() {
+    public void EnoughTest() {
 
         int amount = 1000;
         int expected = 0;
